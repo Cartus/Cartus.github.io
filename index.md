@@ -8,13 +8,13 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
 
   **Zhijiang Guo***, Guoshun Nan*, Wei Lu, Shay B. Cohen
   
-  **IJCAI 2020**, Long paper
+  **IJCAI 2020**, *Long paper*
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
   Guoshun Nan*, **Zhijiang Guo***, Ivan Sekulic, Wei Lu
   
-  **ACL 2020**, Long paper
+  **ACL 2020**, *Long paper*
   
   [[Code]](https://github.com/nanguoshun/LSR)
   
@@ -22,25 +22,25 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
 
   **Zhijiang Guo***, Yan Zhang*, Zhiyang Teng, Wei Lu
   
-  **TACL 2019**, Oral at ACL 2019
+  **TACL 2019**, *Oral at ACL 2019*
   
-  [Paper](https://arxiv.org/pdf/1908.05957.pdf) [Code](https://github.com/Cartus/DCGCN) [Video](https://vimeo.com/385210377)
+  [[Paper]](https://arxiv.org/pdf/1908.05957.pdf) [[Code]](https://github.com/Cartus/DCGCN) [[Video]](https://vimeo.com/385210377)
 
 - **Attention Guided Graph Convolutional Networks for Relation Extraction**
 
   Zhijiang Guo*, Yan Zhang*, Wei Lu
   
-  **ACL 2019**, Long Paper (Oral)
+  **ACL 2019**, *Long Paper (Oral)*
   
-   [Paper](https://www.aclweb.org/anthology/P19-1024.pdf) [Code](https://github.com/Cartus/AGGCN) [Video](https://vimeo.com/383992004)
+   [[Paper]](https://www.aclweb.org/anthology/P19-1024.pdf) [[Code]](https://github.com/Cartus/AGGCN) [[Video]](https://vimeo.com/383992004)
 
 - **Better Transition-Based AMR Parsing with a Refined Search Space**
 
   **Zhijiang Guo**, Wei Lu
   
-  **EMNLP 2018**, Long Paper (Poster) 
+  **EMNLP 2018**, *Long Paper (Poster)* 
   
-  [Paper](https://www.aclweb.org/anthology/D18-1198.pdf) [Code](https://github.com/Cartus/AMR-Parser)
+  [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser)
 
 ### Jekyll Themes
 
