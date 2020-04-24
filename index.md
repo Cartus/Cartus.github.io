@@ -44,17 +44,17 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. [W
   
   ## Education
   
-  - 2019-present, ILCC, The University of Edinburgh
+  - 2019-present, ILCC, **The University of Edinburgh**
   
     Computer Science, *Advisor: Shay Cohen*
   
-  - 2017-present, ISTD, Singapore University of Technology and Design
+  - 2017-present, ISTD, **Singapore University of Technology and Design**
     
     Computer Science, *Advisor: Wei Lu*
   
-  - 2010-2014, Sun Yat-sen University
+  - 2010-2014, **Sun Yat-sen University**
     
-    B.S.
+    BSc in Management
     
     
 
