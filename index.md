@@ -10,7 +10,7 @@ I am most interested in structures from text. How to predict the structures and 
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
-  **Zhijiang Guo**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
+  **Zhijiang Guo<sup>*</sup>**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
   
   **IJCAI 2020**, *Long paper*
 
@@ -48,15 +48,15 @@ I am most interested in structures from text. How to predict the structures and 
   
 ## Education
   
-- 2019-present, **The University of Edinburgh**
+- **The University of Edinburgh** 2019-present
   
   Computer Science, *Advisor: Shay Cohen*
   
-- 2017-present, **Singapore University of Technology and Design**
+- **Singapore University of Technology and Design** 2017-present
     
   Computer Science, *Advisor: Wei Lu*
   
-- 2010-2014, **Sun Yat-sen University**
+- **Sun Yat-sen University** 2010-2014
     
   BSc in Management
     
