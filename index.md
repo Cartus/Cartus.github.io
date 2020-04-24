@@ -10,13 +10,16 @@ I am most interested in structures from text. How to predict the structures and 
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
-  **Zhijiang Guo**<sup>*</sup>, Guoshun Nan*, Wei Lu, Shay B. Cohen
+  **Zhijiang Guo**, Guoshun Nan <sup>*</sup>, Wei Lu, Shay B. Cohen
   
   **IJCAI 2020**, *Long paper*
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
+
   Guoshun Nan*, **Zhijiang Guo***, Ivan Sekulic, Wei Lu
+  
   **ACL 2020**, *Long paper*
+  
   [[Code]](https://github.com/nanguoshun/LSR)
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
