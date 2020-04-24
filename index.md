@@ -5,17 +5,12 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. [W
 ## Publications
 
 - **Learning Latent Forests for Medical Relation Extraction**
-
   **Zhijiang Guo***, Guoshun Nan*, Wei Lu, Shay B. Cohen
-  
   **IJCAI 2020**, *Long paper*
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
-
   Guoshun Nan*, **Zhijiang Guo***, Ivan Sekulic, Wei Lu
-  
   **ACL 2020**, *Long paper*
-  
   [[Code]](https://github.com/nanguoshun/LSR)
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
