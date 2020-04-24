@@ -8,7 +8,7 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
 
   **Zhijiang Guo***, Guoshun Nan*, Wei Lu, Shay B. Cohen
   
-  **IJCAI 2020**，Long paper
+  **IJCAI 2020**, Long paper
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
@@ -16,7 +16,7 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
   
   **ACL 2020**, Long paper
   
-  [Code](https://github.com/nanguoshun/LSR)
+  [[Code]](https://github.com/nanguoshun/LSR)
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
 
@@ -30,7 +30,7 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
 
   Zhijiang Guo*, Yan Zhang*, Wei Lu
   
-  **ACL 2019** Long Paper (Oral)
+  **ACL 2019**, Long Paper (Oral)
   
    [Paper](https://www.aclweb.org/anthology/P19-1024.pdf) [Code](https://github.com/Cartus/AGGCN) [Video](https://vimeo.com/383992004)
 
@@ -38,7 +38,7 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
 
   **Zhijiang Guo**, Wei Lu
   
-  **EMNLP 2018** Long Paper (Poster) 
+  **EMNLP 2018**, Long Paper (Poster) 
   
   [Paper](https://www.aclweb.org/anthology/D18-1198.pdf) [Code](https://github.com/Cartus/AMR-Parser)
 
