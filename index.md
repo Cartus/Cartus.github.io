@@ -39,7 +39,7 @@ I am most interested in structures from text. How to predict the structures and 
 
 - **Attention Guided Graph Convolutional Networks for Relation Extraction**
 
-  Zhijiang Guo<sup>*</sup>, Yan Zhang<sup>*</sup>, Wei Lu
+  **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Wei Lu
   
   **ACL 2019**, *Long Paper (Oral)*
   
