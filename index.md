@@ -1,6 +1,6 @@
 ## About
 
-I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. Wei Lu. Currently, I am in ILCC at the University of Edinburgh, working with Prof. Shay Cohen, Prof. Giorgio Satta, Prof. Frank Drewes and Prof. Johanna Björklund. I am most interested in structures from text. How to predict the structures and apply them to different tasks.
+I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. [Wei Lu. Currently](https://istd.sutd.edu.sg/people/faculty/lu-wei), I am in ILCC at the University of Edinburgh, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. Giorgio Satta, Prof. Frank Drewes and Prof. Johanna Björklund. I am most interested in structures from text. How to predict the structures and apply them to different tasks.
 
 ## Publications
 
@@ -42,10 +42,3 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
   
   [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cartus/cartus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
