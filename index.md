@@ -53,17 +53,17 @@ I am most interested in structures from text. How to predict the structures and 
   
 ## Education
   
-- **The University of Edinburgh**， 2019-present
+- **The University of Edinburgh**, 2019-present
   
-  Computer Science, *Advisor: Shay Cohen*
+  Computer Science, *Advisor: Prof. Shay Cohen*
   
-- **Singapore University of Technology and Design**， 2017-present
+- **Singapore University of Technology and Design**, 2017-present
     
-  Computer Science, *Advisor: Wei Lu*
+  Computer Science, *Advisor: Prof. Wei Lu*
   
-- **Sun Yat-sen University**， 2010-2014
+- **Sun Yat-sen University**, 2010-2014
     
-  BSc in Management
+  BSc in Management & Liberal Arts
     
     
 
