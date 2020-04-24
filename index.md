@@ -16,7 +16,7 @@ I am most interested in structures from text. How to predict the structures and 
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
-  Guoshun Nan*, **Zhijiang Guo***, Ivan Sekulic, Wei Lu
+  Guoshun Nan<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Ivan Sekulic, Wei Lu
   
   **ACL 2020**, *Long paper*
   
@@ -24,7 +24,7 @@ I am most interested in structures from text. How to predict the structures and 
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
 
-  **Zhijiang Guo***, Yan Zhang*, Zhiyang Teng, Wei Lu
+  **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Zhiyang Teng, Wei Lu
   
   **TACL 2019**, *Oral at ACL 2019*
   
@@ -32,7 +32,7 @@ I am most interested in structures from text. How to predict the structures and 
 
 - **Attention Guided Graph Convolutional Networks for Relation Extraction**
 
-  Zhijiang Guo*, Yan Zhang*, Wei Lu
+  Zhijiang Guo<sup>*</sup>, Yan Zhang<sup>*</sup>, Wei Lu
   
   **ACL 2019**, *Long Paper (Oral)*
   
@@ -48,15 +48,15 @@ I am most interested in structures from text. How to predict the structures and 
   
 ## Education
   
-- **The University of Edinburgh** 2019-present
+- **The University of Edinburgh**， 2019-present
   
   Computer Science, *Advisor: Shay Cohen*
   
-- **Singapore University of Technology and Design** 2017-present
+- **Singapore University of Technology and Design**， 2017-present
     
   Computer Science, *Advisor: Wei Lu*
   
-- **Sun Yat-sen University** 2010-2014
+- **Sun Yat-sen University**， 2010-2014
     
   BSc in Management
     
