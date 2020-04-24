@@ -13,6 +13,8 @@ I am most interested in structures from text. How to predict the structures and 
 
 ## Publications
 
+<sup>*</sup> denotes equal contribution.
+
 - **Learning Latent Forests for Medical Relation Extraction**
 
   **Zhijiang Guo<sup>*</sup>**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
