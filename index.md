@@ -11,19 +11,27 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
   **IJCAI 2020**
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
-  Guoshun Nan*, Zhijiang Guo*, Ivan Sekulic, Wei Lu
-  ACL 2020 [Code](https://github.com/nanguoshun/LSR)
+
+  Guoshun Nan*, **Zhijiang Guo***, Ivan Sekulic, Wei Lu
+  
+  **ACL 2020** [Code](https://github.com/nanguoshun/LSR)
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
-  Zhijiang Guo*, Yan Zhang*, Zhiyang Teng, Wei Lu
-  TACL 2019 [Code](https://github.com/Cartus/DCGCN)
+
+  **Zhijiang Guo***, Yan Zhang*, Zhiyang Teng, Wei Lu
+  
+  **TACL 2019** [Code](https://github.com/Cartus/DCGCN)
 
 - **Attention Guided Graph Convolutional Networks for Relation Extraction**
+
   Zhijiang Guo*, Yan Zhang*, Wei Lu
-  ACL 2019 [Code](https://github.com/Cartus/AGGCN)
+  
+  **ACL 2019** [Code](https://github.com/Cartus/AGGCN)
 
 - **Better Transition-Based AMR Parsing with a Refined Search Space**
-  Zhijiang Guo, Wei Lu
+
+  **Zhijiang Guo**, Wei Lu
+  
   EMNLP 2018 [Code](https://github.com/Cartus/AMR-Parser)
 
 ### Jekyll Themes
