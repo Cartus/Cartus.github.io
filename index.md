@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Cartus/cartus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. Wei Lu. Currently, I am in ILCC at the University of Edinburgh, working with Prof. Shay Cohen, Prof. Giorgio Satta, Prof. Frank Drewes and Prof. Johanna Björklund. I am most interested in structures from text. How to predict the structures and apply them to different tasks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
