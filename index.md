@@ -1,6 +1,6 @@
 ## About
 
-I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). Currently, I am in ILCC at the University of Edinburgh, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/). I am most interested in structures from text. How to predict the structures and apply them to different tasks.
+I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). Currently, I am in ILCC at the University of Edinburgh, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/). I am most interested in structures from text. How to predict the structures and apply them to different NLP tasks.
 
 ## Publications
 
