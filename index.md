@@ -10,7 +10,7 @@ I am most interested in structures from text. How to predict the structures and 
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
-  **Zhijiang Guo** <sup>*</sup>, Guoshun Nan*, Wei Lu, Shay B. Cohen
+  **Zhijiang Guo**<sup>*</sup>, Guoshun Nan*, Wei Lu, Shay B. Cohen
   
   **IJCAI 2020**, *Long paper*
 
