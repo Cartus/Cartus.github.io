@@ -5,8 +5,10 @@ I am a 3th-year Ph.D. student in Computer Science at SUTD, working with Prof. We
 ## Publications
 
 - **Learning Latent Forests for Medical Relation Extraction**
+
   Zhijiang Guo*, Guoshun Nan*, Wei Lu, Shay B. Cohen
-  IJCAI 2020
+  
+  **IJCAI 2020**
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
   Guoshun Nan*, Zhijiang Guo*, Ivan Sekulic, Wei Lu
