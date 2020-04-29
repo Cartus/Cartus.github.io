@@ -20,6 +20,8 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   **Zhijiang Guo<sup>*</sup>**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
   
   **IJCAI 2020**, *Long paper*
+  
+  [[Code]](https://github.com/Cartus/Latent-Forests)
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
