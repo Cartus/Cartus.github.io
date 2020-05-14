@@ -29,7 +29,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **ACL 2020**, *Long paper*
   
-  [[Code]](https://github.com/nanguoshun/LSR)
+  [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR)
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
 
