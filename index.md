@@ -53,7 +53,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **EMNLP 2018**, *Long Paper (Poster)* 
   
-  [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser)
+  [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser) [[Poster]](./docs/poster.pptx)
   
 ## Education
   
