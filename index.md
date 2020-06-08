@@ -27,7 +27,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Guoshun Nan<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Ivan Sekulic, Wei Lu
   
-  **ACL 2020**, *Long paper*
+  **ACL 2020**, *Long paper (Oral)*
   
   [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR)
   
