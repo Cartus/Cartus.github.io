@@ -45,7 +45,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **ACL 2019**, *Long Paper (Oral)*
   
-   [[Paper]](https://www.aclweb.org/anthology/P19-1024.pdf) [[Code]](https://github.com/Cartus/AGGCN) [[Video]](https://vimeo.com/383992004)
+   [[Paper]](https://www.aclweb.org/anthology/P19-1024.pdf) [[Code]](https://github.com/Cartus/AGGCN) [[Video]](https://vimeo.com/383992004) [[Slides]](./docs/AGGCN.pdf)
 
 - **Better Transition-Based AMR Parsing with a Refined Search Space**
 
