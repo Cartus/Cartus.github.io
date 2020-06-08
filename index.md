@@ -37,7 +37,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **TACL 2019**, *Oral at ACL 2019*
   
-  [[Paper]](https://arxiv.org/pdf/1908.05957.pdf) [[Code]](https://github.com/Cartus/DCGCN) [[Video]](https://vimeo.com/385210377)
+  [[Paper]](https://arxiv.org/pdf/1908.05957.pdf) [[Code]](https://github.com/Cartus/DCGCN) [[Video]](https://vimeo.com/385210377) [[Slides]](./docs/DCGCN.pdf)
 
 - **Attention Guided Graph Convolutional Networks for Relation Extraction**
 
