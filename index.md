@@ -14,6 +14,11 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
+- **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
+
+  Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
+  
+  **EMNLP 2020**, *Long paper*
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
@@ -69,5 +74,9 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
     
   BSc in Management & Liberal Arts
     
+
+## Program committee/reviewer
+
+ACL/EMNLP/NAACL/COLING/AAAI/IJCAI/ACML
     
 
