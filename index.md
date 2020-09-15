@@ -77,6 +77,6 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
 ## Program committee/reviewer
 
-ACL/EMNLP/NAACL/COLING/AAAI/IJCAI/ACML
+- ACL/EMNLP/NAACL/COLING/AAAI/IJCAI/ACML
     
 
