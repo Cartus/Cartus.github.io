@@ -14,11 +14,11 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
-- **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
+<!--- **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**-->
 
-  Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
+  <!--Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing-->
   
-  **EMNLP 2020**, *Long paper*
+  <!--**EMNLP 2020**, *Long paper*-->
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
