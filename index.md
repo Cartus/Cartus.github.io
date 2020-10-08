@@ -19,6 +19,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
   
   **EMNLP 2020**, *Long paper*
+  [[Code]](https://github.com/yanzhang92/LDGCNs)
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
