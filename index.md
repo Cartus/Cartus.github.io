@@ -20,7 +20,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **EMNLP 2020**, *Long paper*
   
-  [[Code]](https://github.com/yanzhang92/LDGCNs)
+  [[Paper]](https://arxiv.org/pdf/2010.04383.pdf)[[Code]](https://github.com/yanzhang92/LDGCNs)
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
