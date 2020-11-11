@@ -20,7 +20,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **EMNLP 2020**, *Long paper*
   
-  [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Video]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)
+  [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Video]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
@@ -36,7 +36,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **ACL 2020**, *Long paper (Oral)*
   
-  [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR) [[Video]](https://slideslive.com/38929374/reasoning-with-latent-structure-refinement-for-documentlevel-relation-extraction) 
+  [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR) [[Video]](https://slideslive.com/38929374/reasoning-with-latent-structure-refinement-for-documentlevel-relation-extraction)  [[Slides]](./docs/LSR.pdf)
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
 
