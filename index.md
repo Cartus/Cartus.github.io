@@ -27,7 +27,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **IJCAI 2020**, *Long paper*
   
-  [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests)
+  [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests) [[Slides]](./docs/IJCAI2020.pdf) [[PPT]](./docs/IJCAI.pptx) [[Poster]](./docs/IJCAI2020_poster.pdf)
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
