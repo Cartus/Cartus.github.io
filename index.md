@@ -28,8 +28,6 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   *PhD Thesis*
   
   [[Paper]](./docs/thesis.pdf) [[Slides]](./docs/thesis_slides.pdf)
-
-- **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
   
 - **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
 
