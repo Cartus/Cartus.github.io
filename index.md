@@ -13,6 +13,14 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
+- **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
+
+  Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
+  
+  *Arxiv preprint*
+  
+  [[Paper]](https://arxiv.org/abs/2106.05707)
+  
 - **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
 
   Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
