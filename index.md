@@ -94,7 +94,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
 ## Program committee/reviewer
 
-- **Conference**: ACL/EMNLP/NAACL/COLING/EACL/AAAI/IJCAI/ACML
-- **Journal**: TALLIP/Neural Computing/Natural Language Engineering/Database
+- **Conference**: ACL/EMNLP/NAACL/Neurips/COLING/EACL/AAAI/IJCAI/ACML
+- **Journal**: TALLIP/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
     
 
